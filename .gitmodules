@@ -1,0 +1,3 @@
+[submodule "mlproject"]
+	path = mlproject
+	url = https://github.com/LVADSUSR178/mlproject.git
